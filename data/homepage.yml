@@ -160,8 +160,8 @@ education:
         btnText: "Launch Application"
         URL: "https://rpubs.com/MahshidArastonejad/1008242"
       image:
-        x: "img/works/project 1.png"
-        _2x: "img/works/project 1.png"
+        x: "img/works/Project 1.png"
+        _2x: "img/works/Project 1.png"
       is_even: true
 
     #- title: "Product Price Recommendation"
