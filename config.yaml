@@ -5,9 +5,9 @@ params:
   footer:
     copyright: © Mahshid Arastonejad. All rights reserved.
     site_logo:
-      _2x: img/general/business-science-logo.png
+      _2x: img/general/logo.jpeg
       alt: Design & Code - Business Science
-      x: img/general/business-science-logo.png
+      x: img/general/logo.jpeg
   googleAnalyticsID: ''
   logo:
     text1: Mahshid
