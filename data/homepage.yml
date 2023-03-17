@@ -8,11 +8,11 @@ showcase:
   subtitle: "MSc Student"
   description: "Mahshid is a Master of Science student in Human Genetics at Virginia Commonwealth University."
   image:
-    x: "img/showcase/RStudio.png"
-    _2x: "img/showcase/RStudio.png"
+    x: "img/showcase/giphy.gif"
+    _2x: "img/showcase/giphy.gif"
   imageMobile:
-    x: "img/showcase/RStudio.png"
-    _2x: "img/showcase/RStudio.png"
+    x: "img/showcase/giphy.gif"
+    _2x: "img/showcase/giphy.gif"
 
   button:
     icon: "icon-mail-fill"
@@ -115,7 +115,7 @@ education:
   
 
 
-# Client & Work
+ Client & Work
 #client_and_work:
  # title: "Portfolio"
  # enable: true
